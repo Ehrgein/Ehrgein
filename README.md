@@ -2,7 +2,7 @@
 
 #### I'm Alexis, a frontend developer based in Buenos Aires who's very passionate about creating responsive, beautiful, functional websites.
 
-### I mostly work with React, but I'm interested in learning Vue/Next js.
+#### I mostly work with React, but I'm interested in learning Vue/Next js.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alexisfordpy/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin.png" alt="" height="40" width="40" /></a>
