@@ -4,7 +4,6 @@
 
 ### I mostly work with React, but I'm interested in learning Vue/Next js.
 
-### Feel free to contact me through linkedin or twitter!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alexisfordpy/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin.png" alt="" height="40" width="40" /></a>
@@ -18,9 +17,14 @@
 - 🌱 I’m currently learning Typescript, threeJs.
 
 
+
+
+
 ## Languages and Tools I've used
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,python,tailwind,html,css,express,mysql)](https://skills.thijs.gg)
+
+
 
 
 
