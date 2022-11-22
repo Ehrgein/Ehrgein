@@ -1,6 +1,6 @@
 ## Hello there!  👋
 
-### I'm Alexis, a frontend developer based in Buenos Aires who's very passionate about creating responsive, beautiful, functional websites.
+### I'm Alexis, a frontend developer based in Buenos Aires who's very passionate about creating responsive, beautiful, functional websites
 
 ### I mostly work with React, but I'm interested in learning Vue/Next js.
 
@@ -15,7 +15,6 @@
 
 - 🔭 I’m currently looking for a Frontend dev position.
 - 🌱 I’m currently learning Typescript, threeJs.
-
 
 
 
