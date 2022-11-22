@@ -1,20 +1,23 @@
-### Hey there 👋
+## Hey there 👋
 
-I'm Alexis, a frontend developer based in Buenos Aires who's very passionate about creating responsive, beautiful, functional websites.
+#### I'm Alexis, a frontend developer based in Buenos Aires who's very passionate about creating responsive, beautiful, functional websites.
 
-I mostly work with React, but I'm interested in learning Vue/Next js.
+### I mostly work with React, but I'm interested in learning Vue/Next js.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/alexisfordpy/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin.png" alt="" height="40" width="40" /></a>
+</p>
 
 
-
-### What I'm up to
+## What I'm up to
 
 - 🔭 I’m currently looking for a frontend dev position.
 - 🌱 I’m currently learning Typescript, threeJs.
 - 📫 How to reach me: You can reach me on linkedin here: https://www.linkedin.com/in/alexisfordpy/
 
-### Languages and Tools I've used
+## Languages and Tools I've used
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,python,html,css,express,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,python,tailwind,html,css,express,mysql)](https://skills.thijs.gg)
 
 
 
