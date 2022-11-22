@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hello there!  👋
 
 #### I'm Alexis, a frontend developer based in Buenos Aires who's very passionate about creating responsive, beautiful, functional websites.
 
@@ -11,9 +11,9 @@
 
 ## What I'm up to
 
-- 🔭 I’m currently looking for a frontend dev position.
+- 🔭 I’m currently looking for a Frontend dev position.
 - 🌱 I’m currently learning Typescript, threeJs.
-- 📫 How to reach me: You can reach me on linkedin here: https://www.linkedin.com/in/alexisfordpy/
+- 
 
 ## Languages and Tools I've used
 
