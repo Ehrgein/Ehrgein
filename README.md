@@ -14,7 +14,7 @@
 ## What I'm up to
 
 - 🔭 I’m currently looking for a Frontend dev position.
-- 🌱 I’m currently learning Typescript, threeJs.
+- 🌱 I’m currently learning Typescript, ThreeJS, Gsap.
 
 
 
