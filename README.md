@@ -21,7 +21,7 @@
 
 ## Languages and Tools I've used
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,python,tailwind,html,css,express,mysql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,nodejs,python,tailwind,html,css,express,mysql, threejs, gsap)](https://skills.thijs.gg)
 
 
 
