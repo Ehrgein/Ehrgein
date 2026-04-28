@@ -7,7 +7,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alexisfordpy/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin.png" alt="" height="40" width="40" /></a>
-    <a href="https://mobile.twitter.com/alekseyrx/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/twitter.png" alt="" height="40" width="40" /></a>
 </p>
 
 
